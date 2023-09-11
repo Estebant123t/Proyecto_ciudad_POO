@@ -1,0 +1,14 @@
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\bin\Debug\net6.0\Nuevo.exe
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\bin\Debug\net6.0\Nuevo.deps.json
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\bin\Debug\net6.0\Nuevo.runtimeconfig.json
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\bin\Debug\net6.0\Nuevo.dll
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\bin\Debug\net6.0\Nuevo.pdb
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.AssemblyInfo.cs
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.dll
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\refint\Nuevo.dll
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.pdb
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\Nuevo.genruntimeconfig.cache
+C:\Users\Juan Pablo\source\repos\Proyecto_ciudad_POO\Nuevo\Nuevo\obj\Debug\net6.0\ref\Nuevo.dll
