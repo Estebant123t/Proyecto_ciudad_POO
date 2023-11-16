@@ -1,0 +1,74 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class NewBehaviourScript : MonoBehaviour
+{
+    public GameObject luz;
+    public Transform Verde;
+    public Transform Amarillo;
+    public Transform Rojo;
+    private bool rojo;
+    private bool amarillorojo;
+    private bool amarilloverde;
+    private bool verde;
+    
+    private void Start()
+    {
+        rojo = true;
+    }
+
+    void Update()
+    {
+        if (rojo == true) 
+        {
+            luz.transform.position = Rojo.position;
+            luz.GetComponent<Light>().color = Color.red;
+            StartCoroutine(luzroja());
+            amarilloverde = false;
+        }
+        if (amarillorojo == true)
+        {
+            luz.transform.position = Amarillo.position;
+            luz.GetComponent<Light>().color = Color.yellow;
+            StartCoroutine(luzamarillar());
+            rojo = false;
+        }
+        if (amarilloverde == true)
+        {
+            luz.transform.position = Amarillo.position;
+            luz.GetComponent<Light>().color = Color.yellow;
+            StartCoroutine(luzamarillav());
+            verde = false;
+        }
+        if (verde == true)
+        {
+            luz.transform.position = Verde.position;
+            luz.GetComponent<Light>().color = Color.green;
+            StartCoroutine(luzverde());
+            amarillorojo = false;
+        }
+    }
+    IEnumerator luzroja   () 
+    {
+        yield return new WaitForSeconds(13);
+        amarillorojo = true;
+    }
+    IEnumerator luzamarillar()
+    {
+        yield return new WaitForSeconds(2);
+        verde = true;
+    }
+    IEnumerator luzamarillav()
+    {
+        yield return new WaitForSeconds(2);
+        rojo = true;
+    }
+    IEnumerator luzverde()
+    {
+        yield return new WaitForSeconds(13);
+        amarilloverde = true;
+    }
+
+
+}
