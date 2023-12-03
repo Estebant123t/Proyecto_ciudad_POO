@@ -1,7 +1,4 @@
-﻿a// Traffic Simulation
-// https://github.com/mchrbn/unity-traffic-simulation
-// Based on the Vehicle Tools package from Unity
-
+﻿
 using UnityEngine;
 using System;
 

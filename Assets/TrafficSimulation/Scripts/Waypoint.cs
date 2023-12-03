@@ -1,6 +1,4 @@
-﻿// Traffic Simulation
-// https://github.com/mchrbn/unity-traffic-simulation
-
+﻿
 using UnityEngine;
 
 namespace TrafficSimulation {
