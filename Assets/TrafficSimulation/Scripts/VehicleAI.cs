@@ -41,7 +41,7 @@ namespace TrafficSimulation {
         public Transform raycastAnchor;
 
         [Tooltip("Length of the casted rays")]
-        public float raycastLength = 5;
+        public float raycastLength = 3;
 
         [Tooltip("Spacing between each rays")]
         public int raySpacing = 2;
