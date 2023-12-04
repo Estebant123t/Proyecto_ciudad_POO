@@ -1,6 +1,7 @@
 
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 namespace TrafficSimulation{
     public enum IntersectionType{
@@ -24,10 +25,10 @@ namespace TrafficSimulation{
 
         private List<GameObject> vehiclesQueue;
         private List<GameObject> vehiclesInIntersection;
-        private TrafficSystem trafficSystem;
-        
-        [HideInInspector] public int currentRedLightsGroup = 1;
+        private TrafficSystem trafficSystem;        
 
+        [HideInInspector] public int currentRedLightsGroup = 1;
+        
         void Start(){
             vehiclesQueue = new List<GameObject>();
             vehiclesInIntersection = new List<GameObject>();

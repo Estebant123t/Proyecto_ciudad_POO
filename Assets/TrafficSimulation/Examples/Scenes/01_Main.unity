@@ -139,10 +139,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1415785273}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &2277531
@@ -1633,10 +1633,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 400723735}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &35101930
@@ -2047,8 +2047,8 @@ MonoBehaviour:
   intersectionType: 1
   id: 3
   prioritySegments: []
-  lightsDuration: 10
-  orangeLightDuration: 4
+  lightsDuration: 18
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 1796287176}
   lightsNbr2:
@@ -2141,10 +2141,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1474682393}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &59348715 stripped
@@ -2372,7 +2372,7 @@ Transform:
   m_GameObject: {fileID: 64010784}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -17.66, y: 0.00000047683716, z: -53.78}
+  m_LocalPosition: {x: -16.31, y: 0.00000047683716, z: -53.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2571,10 +2571,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1842004315}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &70080157
@@ -3222,10 +3222,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1534289885}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &82008608
@@ -4329,10 +4329,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 839141692}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &98644926
@@ -4567,10 +4567,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 460738321}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &106998355
@@ -4700,10 +4700,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1462554418}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &107915436
@@ -5363,7 +5363,7 @@ Transform:
   m_GameObject: {fileID: 132266363}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.19, y: 0, z: 0}
+  m_LocalPosition: {x: -0.09, y: 0, z: -0.31}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5576,10 +5576,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 2016996236}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &136631010
@@ -5708,10 +5708,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1018270203}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &139583671
@@ -5961,10 +5961,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1555616569}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &148812838
@@ -6020,10 +6020,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1022950078}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &148812841
@@ -6672,10 +6672,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1341419947}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &160739200
@@ -7334,7 +7334,7 @@ Transform:
   m_GameObject: {fileID: 168052831}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16.198318, y: 0.00000047683716, z: -21.20266}
+  m_LocalPosition: {x: 16.28, y: 0.00000047683716, z: -20.33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7698,8 +7698,8 @@ MonoBehaviour:
   prioritySegments:
   - {fileID: 151142524}
   - {fileID: 685921471}
-  lightsDuration: 10
-  orangeLightDuration: 4
+  lightsDuration: 18
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 1241176745}
   - {fileID: 1509820994}
@@ -8102,7 +8102,7 @@ Transform:
   m_GameObject: {fileID: 187508896}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1.99}
+  m_LocalPosition: {x: -0.05, y: 0, z: 0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8230,10 +8230,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1265854215}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &190083767
@@ -8665,10 +8665,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 771763217}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &196610409
@@ -8785,6 +8785,7 @@ GameObject:
   - component: {fileID: 198311807}
   - component: {fileID: 198311808}
   - component: {fileID: 198311809}
+  - component: {fileID: 198311810}
   m_Layer: 0
   m_Name: Intersection-0
   m_TagString: Untagged
@@ -8802,9 +8803,10 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -41.154537, y: 1.4500002, z: -12.454818}
-  m_LocalScale: {x: 1.062356, y: 1, z: 0.55477905}
+  m_LocalScale: {x: 1.062356, y: 1, z: 0.41366544}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 2097637262}
   m_Father: {fileID: 406195719}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &198311808
@@ -8845,14 +8847,31 @@ MonoBehaviour:
   prioritySegments:
   - {fileID: 1902215357}
   - {fileID: 1233360794}
-  lightsDuration: 6
-  orangeLightDuration: 4
+  lightsDuration: 15
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 423579629}
   - {fileID: 1233360794}
   lightsNbr2:
   - {fileID: 1902215357}
   currentRedLightsGroup: 1
+--- !u!114 &198311810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 198311806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58a0427255600bb468fc49425ea5a97b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetosLista:
+  - {fileID: 542147814}
+  - {fileID: 881108908}
+  - {fileID: 1115640214}
+  - {fileID: 0}
 --- !u!1 &201608036
 GameObject:
   m_ObjectHideFlags: 0
@@ -9767,10 +9786,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1073468176}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &217976328
@@ -10156,10 +10175,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1905912529}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &227052498
@@ -10967,10 +10986,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 2100124333}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &251803020
@@ -11072,7 +11091,7 @@ Transform:
   m_GameObject: {fileID: 252340020}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.31436157, y: 0, z: -1.05}
+  m_LocalPosition: {x: 0.41, y: 0, z: -0.69}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11165,10 +11184,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1032215353}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &253273210
@@ -11276,10 +11295,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 382778244}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &256730400
@@ -11918,7 +11937,7 @@ Transform:
   m_GameObject: {fileID: 269290634}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.75}
+  m_LocalPosition: {x: -0.21, y: 0, z: -0.65}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12451,8 +12470,8 @@ MonoBehaviour:
   prioritySegments:
   - {fileID: 766746091}
   - {fileID: 2072114415}
-  lightsDuration: 6
-  orangeLightDuration: 4
+  lightsDuration: 15
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 766746091}
   - {fileID: 1800101872}
@@ -12949,10 +12968,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 482532767}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &291764301
@@ -13237,10 +13256,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1113208877}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &300329599
@@ -13731,10 +13750,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1794715201}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &309451048
@@ -13894,7 +13913,7 @@ Transform:
   m_GameObject: {fileID: 316271478}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0130290985, y: 0.00000047683716, z: 23.86}
+  m_LocalPosition: {x: 0.37, y: 0.00000047683716, z: 22.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14181,7 +14200,7 @@ Transform:
   m_GameObject: {fileID: 319413469}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -20.61, y: -0.16, z: 22.52}
+  m_LocalPosition: {x: -20.1, y: -0.16, z: 22.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14283,7 +14302,7 @@ Transform:
   m_GameObject: {fileID: 322969148}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.23002625, y: -1.49, z: 20.668606}
+  m_LocalPosition: {x: -0.18, y: -1.49, z: 19.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15265,7 +15284,7 @@ Transform:
   m_GameObject: {fileID: 354585250}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -26.71637, y: -0.00000047683716, z: -14.22402}
+  m_LocalPosition: {x: -26.95, y: -0.00000047683716, z: -14.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15310,7 +15329,7 @@ Transform:
   m_GameObject: {fileID: 354834587}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.000000014901159, z: -0, w: 1}
-  m_LocalPosition: {x: -25.38, y: 0.00000023841858, z: 25.9}
+  m_LocalPosition: {x: -25.4, y: 0.00000023841858, z: 24.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15585,7 +15604,7 @@ Transform:
   m_GameObject: {fileID: 363581412}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.057408333, y: 0, z: -24.92}
+  m_LocalPosition: {x: 0, y: 0, z: -24.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16163,7 +16182,7 @@ Transform:
   m_GameObject: {fileID: 380213307}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 25.85, y: 0.00000011920929, z: 12.469999}
+  m_LocalPosition: {x: 24.65, y: 0.00000011920929, z: 12.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16790,10 +16809,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 601969535}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &400240075
@@ -18567,10 +18586,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1180944361}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &442645889
@@ -19494,10 +19513,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1883032155}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &460258169
@@ -20002,10 +20021,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1334809671}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &471195181
@@ -20047,7 +20066,7 @@ Transform:
   m_GameObject: {fileID: 471195181}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 34.28, y: 0, z: -0.28}
+  m_LocalPosition: {x: 32.85, y: 0, z: -0.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -20220,10 +20239,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 47508760}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &475159577
@@ -21414,10 +21433,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1907845255}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &498139335
@@ -22689,10 +22708,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1068727191}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &517136272
@@ -23528,6 +23547,7 @@ Transform:
   - {fileID: 458574990}
   - {fileID: 325594513}
   - {fileID: 1759013215}
+  - {fileID: 1177571011}
   - {fileID: 1800101873}
   - {fileID: 1151426497}
   - {fileID: 1241176746}
@@ -24036,10 +24056,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1270489043}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &534669902
@@ -24390,10 +24410,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 2065620577}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &538263401
@@ -24519,6 +24539,37 @@ WheelCollider:
   m_LayerOverridePriority: 0
   m_Enabled: 1
   m_ProvidesContacts: 0
+--- !u!1 &542147814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 542147815}
+  m_Layer: 0
+  m_Name: Sensor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &542147815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 542147814}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -2.529348, y: 0, z: 45}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2097637262}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1001 &545735315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24686,10 +24737,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1369966974}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &546855422
@@ -24910,10 +24961,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1478833252}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &550170098
@@ -28067,7 +28118,7 @@ Transform:
   m_GameObject: {fileID: 621840976}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.18, y: 0, z: -0.120000005}
+  m_LocalPosition: {x: -0.47, y: 0, z: -1.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -28354,10 +28405,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 325477245}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &625279775
@@ -28616,10 +28667,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1727048893}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &630856249
@@ -29603,10 +29654,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1928724617}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &650304740
@@ -30237,10 +30288,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1703569921}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &662061225
@@ -30629,7 +30680,7 @@ Transform:
   m_GameObject: {fileID: 676853019}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.71650034, z: -0, w: 0.6975868}
-  m_LocalPosition: {x: -18.16, y: 1.589, z: -11.38}
+  m_LocalPosition: {x: -18.15, y: 1.589, z: -11.78}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30653,10 +30704,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1229375270}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &676853022
@@ -31870,7 +31921,7 @@ Transform:
   m_GameObject: {fileID: 706564028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 31.85, y: 0, z: 0}
+  m_LocalPosition: {x: 31.13, y: 0, z: -0.46}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32092,10 +32143,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1585494020}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &709952514
@@ -32338,10 +32389,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1505103150}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &711634667
@@ -32926,7 +32977,7 @@ Transform:
   m_GameObject: {fileID: 722440548}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.03, y: 0, z: 0.81}
+  m_LocalPosition: {x: -0.19, y: 0, z: -0.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -33370,10 +33421,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 555026959}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &733258108
@@ -33941,10 +33992,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 684002182}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &748807060
@@ -34397,10 +34448,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1455387394}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &756048440
@@ -34637,7 +34688,7 @@ Transform:
   m_GameObject: {fileID: 762143549}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.44, y: 0, z: 0}
+  m_LocalPosition: {x: 0.16, y: 0, z: -0.37}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -34944,10 +34995,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1486262940}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &772083807
@@ -35098,10 +35149,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1211895451}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &772629646
@@ -36260,7 +36311,7 @@ Transform:
   m_GameObject: {fileID: 792386792}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.24763012, y: -0.00000011920929, z: 23.9}
+  m_LocalPosition: {x: 0.22, y: -0.00000011920929, z: 22.79}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36350,7 +36401,7 @@ Transform:
   m_GameObject: {fileID: 796741487}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1, y: 0, z: -0.25}
+  m_LocalPosition: {x: 0.32, y: 0, z: -0.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36741,10 +36792,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1483358367}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &808152454
@@ -36835,10 +36886,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1680330593}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &810133028
@@ -36915,10 +36966,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 170560710}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &810133032
@@ -37186,7 +37237,7 @@ Transform:
   m_GameObject: {fileID: 814634380}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.25, y: 0, z: 0}
+  m_LocalPosition: {x: -0.8, y: 0, z: 0.12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -37287,10 +37338,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1266799432}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &816069325
@@ -38369,10 +38420,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1100251750}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &833756034
@@ -38556,10 +38607,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 423047647}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &835118185
@@ -38685,10 +38736,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1703529755}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &839141691
@@ -38937,7 +38988,7 @@ Transform:
   m_GameObject: {fileID: 842771135}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.11848259, y: 0.00000059604645, z: 20.02}
+  m_LocalPosition: {x: 0.31, y: 0.00000059604645, z: 18.99}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -39056,7 +39107,7 @@ Transform:
   m_GameObject: {fileID: 845554235}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.63, y: 0, z: 0}
+  m_LocalPosition: {x: 0.43, y: 0, z: -0.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -39432,10 +39483,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 16735616}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &855574845
@@ -39614,10 +39665,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 213690526}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &858740487
@@ -40137,10 +40188,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 861075718}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &869377766
@@ -40480,10 +40531,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1177809328}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &877447785
@@ -40625,6 +40676,37 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 878755162}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &881108908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 881108909}
+  m_Layer: 0
+  m_Name: Sensor (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &881108909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 881108908}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 17, y: 0, z: 5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2097637262}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &889543291
 GameObject:
   m_ObjectHideFlags: 0
@@ -40771,10 +40853,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 915561784}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &889976602
@@ -40882,10 +40964,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 69592912}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &891332405
@@ -41094,7 +41176,7 @@ Transform:
   m_GameObject: {fileID: 895439729}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 31.66, y: 0, z: -0.18}
+  m_LocalPosition: {x: 31.04, y: 0, z: -0.46}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41946,7 +42028,7 @@ Transform:
   m_GameObject: {fileID: 920003782}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1.75}
+  m_LocalPosition: {x: 0.31, y: 0, z: -2.21}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41991,7 +42073,7 @@ Transform:
   m_GameObject: {fileID: 920729957}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16.88, y: 0, z: 0.28}
+  m_LocalPosition: {x: 16.04, y: 0, z: -0.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -42134,7 +42216,7 @@ Transform:
   m_GameObject: {fileID: 929777382}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.25779343, y: 0, z: -0.46}
+  m_LocalPosition: {x: 0.18, y: 0, z: -0.43}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -42475,7 +42557,7 @@ Transform:
   m_GameObject: {fileID: 935130375}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1.25}
+  m_LocalPosition: {x: 0.24, y: 0, z: -0.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -42762,10 +42844,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 304722107}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &948702364
@@ -43038,10 +43120,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 492969577}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &952586223
@@ -43629,7 +43711,7 @@ Transform:
   m_GameObject: {fileID: 959109781}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.64, y: 0, z: 0}
+  m_LocalPosition: {x: -0.08, y: 0, z: -0.84}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43674,7 +43756,7 @@ Transform:
   m_GameObject: {fileID: 959585390}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1.09}
+  m_LocalPosition: {x: 0.32, y: 0, z: 0.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43966,10 +44048,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1282276281}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &961064431
@@ -44242,10 +44324,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 2056668803}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &964849617
@@ -44374,10 +44456,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1643555786}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &966401865
@@ -44695,10 +44777,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1427376584}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &982032242
@@ -45130,7 +45212,7 @@ Transform:
   m_GameObject: {fileID: 989166576}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27.32, y: -0.00000059604645, z: -26.6}
+  m_LocalPosition: {x: 27.55, y: -0.00000059604645, z: -26.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -45260,10 +45342,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1283843115}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &993159143
@@ -45413,10 +45495,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 72246946}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &994248513
@@ -45840,10 +45922,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1735378906}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1002140498
@@ -46223,7 +46305,7 @@ Transform:
   m_GameObject: {fileID: 1010298804}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -32.5, y: 0.00000011920929, z: 0.094148636}
+  m_LocalPosition: {x: -31.29, y: 0.00000011920929, z: 0.31}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -46358,10 +46440,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1048030343}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1014660509
@@ -46680,10 +46762,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1421671727}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1020499383
@@ -47214,7 +47296,7 @@ Transform:
   m_GameObject: {fileID: 1034599782}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.0000029504295}
-  m_LocalPosition: {x: 0.369, y: 0, z: -0.735}
+  m_LocalPosition: {x: 0.87, y: 0, z: 0.22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -47881,10 +47963,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 481273234}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1046239551
@@ -48685,10 +48767,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1904071928}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1060895002
@@ -49595,10 +49677,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1036498655}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1076808237
@@ -50406,10 +50488,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1628775923}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1092966984
@@ -50976,10 +51058,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1878511245}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1107216416
@@ -51144,7 +51226,7 @@ Transform:
   m_GameObject: {fileID: 1111831828}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -23.97, y: 0.00000011920929, z: 0.22287846}
+  m_LocalPosition: {x: -22.54, y: 0.00000011920929, z: 0.24}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -51389,6 +51471,37 @@ WheelCollider:
   m_LayerOverridePriority: 0
   m_Enabled: 1
   m_ProvidesContacts: 0
+--- !u!1 &1115640214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1115640215}
+  m_Layer: 0
+  m_Name: Sensor (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1115640215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115640214}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 1.264674, y: 0, z: -45}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2097637262}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &1116512804
 GameObject:
   m_ObjectHideFlags: 0
@@ -51853,8 +51966,8 @@ MonoBehaviour:
   intersectionType: 1
   id: 2
   prioritySegments: []
-  lightsDuration: 10
-  orangeLightDuration: 4
+  lightsDuration: 18
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 2114961485}
   lightsNbr2:
@@ -52169,10 +52282,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 763690202}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1140603228
@@ -52675,8 +52788,8 @@ MonoBehaviour:
   intersectionType: 1
   id: 4
   prioritySegments: []
-  lightsDuration: 6
-  orangeLightDuration: 4
+  lightsDuration: 15
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 1402760233}
   - {fileID: 961964230}
@@ -53018,10 +53131,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 209925957}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1152435370
@@ -54147,13 +54260,13 @@ Transform:
   m_GameObject: {fileID: 1177571009}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.7467155, y: 0, z: -32.45896}
+  m_LocalPosition: {x: 21.1534, y: 1.4499999, z: -14.536959}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1781705010}
   - {fileID: 1882405231}
-  m_Father: {fileID: 1759013215}
+  m_Father: {fileID: 530577389}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1177809327
 GameObject:
@@ -54212,7 +54325,7 @@ Transform:
   m_GameObject: {fileID: 1179627361}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.938, y: 0, z: -0.219}
+  m_LocalPosition: {x: -0.91, y: 0, z: -0.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -54730,7 +54843,7 @@ Transform:
   m_GameObject: {fileID: 1187705421}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.08, y: 0, z: 0}
+  m_LocalPosition: {x: 0.26, y: 0, z: 0.26}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -55053,10 +55166,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 719822248}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1194606002
@@ -56988,10 +57101,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 456503837}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1256410253
@@ -57446,10 +57559,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 142275004}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1264843736
@@ -57951,10 +58064,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 312551402}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1274520486
@@ -58645,7 +58758,7 @@ Transform:
   m_GameObject: {fileID: 1291159613}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.10333538, y: 0, z: -1.18}
+  m_LocalPosition: {x: 0.34, y: 0, z: -0.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -59134,7 +59247,7 @@ Transform:
   m_GameObject: {fileID: 1304636941}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.26}
+  m_LocalPosition: {x: 0.11, y: 0, z: 0.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -59565,10 +59678,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1651883619}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1318260503
@@ -59970,10 +60083,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1627032569}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1329004010
@@ -60409,10 +60522,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 180786067}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1339821586
@@ -62222,10 +62335,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1410806203}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1389861953
@@ -63084,7 +63197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 376d02e6e394c1440941965ee192c85e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lightGroupId: 1
+  lightGroupId: 2
   intersection: {fileID: 278981552}
 --- !u!23 &1411291732
 MeshRenderer:
@@ -64073,10 +64186,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 829803683}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1429534743
@@ -64205,10 +64318,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 90831064}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1431284317
@@ -64714,10 +64827,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 234388466}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1436076626
@@ -64972,10 +65085,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 29037990}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1441983557
@@ -65341,7 +65454,7 @@ Transform:
   m_GameObject: {fileID: 1453734299}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 19.02, y: -0.00000011920929, z: 56.61}
+  m_LocalPosition: {x: 19.05, y: -0.00000011920929, z: 55.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -66554,7 +66667,7 @@ Transform:
   m_GameObject: {fileID: 1491189269}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1}
+  m_LocalPosition: {x: -0.15, y: 0, z: -0.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -66849,7 +66962,7 @@ Transform:
   m_GameObject: {fileID: 1494326743}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -32.895226, y: 0.00000011920929, z: 0.14435196}
+  m_LocalPosition: {x: -30.83, y: 0.00000011920929, z: 0.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -67535,7 +67648,7 @@ Transform:
   m_GameObject: {fileID: 1512114420}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.48, z: 1}
+  m_LocalPosition: {x: -0.04, y: -1.48, z: -0.56}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -67629,10 +67742,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 662273584}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1513292544
@@ -67967,10 +68080,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1393130210}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1522915298
@@ -68280,7 +68393,7 @@ Transform:
   m_GameObject: {fileID: 1526589129}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -31.79, y: 0, z: -0.05}
+  m_LocalPosition: {x: -30.78, y: 0, z: 0.14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -68325,7 +68438,7 @@ Transform:
   m_GameObject: {fileID: 1527569214}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.05, y: -0.00000047683716, z: -23.82}
+  m_LocalPosition: {x: -0.08, y: -0.00000047683716, z: -22.79}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -68728,10 +68841,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1408251460}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 0.72
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1541173664
@@ -69730,7 +69843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 376d02e6e394c1440941965ee192c85e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lightGroupId: 2
+  lightGroupId: 1
   intersection: {fileID: 278981552}
 --- !u!23 &1566144959
 MeshRenderer:
@@ -70209,7 +70322,7 @@ Transform:
   m_GameObject: {fileID: 1587047710}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1, y: 0, z: 0}
+  m_LocalPosition: {x: 0.2, y: 0, z: 0.26}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -70592,10 +70705,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 184712733}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1601057267
@@ -70725,7 +70838,7 @@ Transform:
   m_GameObject: {fileID: 1604083283}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.00000071525574, z: -24.2067}
+  m_LocalPosition: {x: -0.11, y: -0.00000071525574, z: -23.21}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -70847,7 +70960,7 @@ Transform:
   m_GameObject: {fileID: 1614332264}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 32.15, y: 0, z: -0.12661171}
+  m_LocalPosition: {x: 31.27, y: 0, z: -0.12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -71260,10 +71373,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 579429142}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1617465601
@@ -71413,10 +71526,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1879566744}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1618651616
@@ -71497,7 +71610,7 @@ Transform:
   m_GameObject: {fileID: 1623750871}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.02, y: 0, z: -0.394}
+  m_LocalPosition: {x: -0.87, y: 0, z: -0.68}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -72677,10 +72790,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 907078160}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1651883618
@@ -72740,7 +72853,7 @@ Transform:
   m_GameObject: {fileID: 1654736282}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.58, y: 0, z: 0}
+  m_LocalPosition: {x: -0.15, y: 0, z: -0.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -72970,7 +73083,7 @@ Transform:
   m_GameObject: {fileID: 1659906089}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.14, y: 0, z: 0}
+  m_LocalPosition: {x: 0.39, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -73063,10 +73176,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 792610271}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1662809035
@@ -74182,7 +74295,7 @@ Transform:
   m_GameObject: {fileID: 1695153031}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 23.97, y: -0.00000011920929, z: -0.12016106}
+  m_LocalPosition: {x: 23.08, y: -0.00000011920929, z: -0.34}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -75313,10 +75426,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 112128194}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1731010389
@@ -75452,10 +75565,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 870735448}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1739245205
@@ -75865,8 +75978,8 @@ MonoBehaviour:
   prioritySegments:
   - {fileID: 495444333}
   - {fileID: 1182472912}
-  lightsDuration: 6
-  orangeLightDuration: 4
+  lightsDuration: 15
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 443007449}
   - {fileID: 1182472912}
@@ -76202,7 +76315,6 @@ Transform:
   m_Children:
   - {fileID: 959585391}
   - {fileID: 842771137}
-  - {fileID: 1177571011}
   m_Father: {fileID: 530577389}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1760618402
@@ -76338,7 +76450,7 @@ Transform:
   m_GameObject: {fileID: 1764785782}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -15.91, y: 0, z: -0.35}
+  m_LocalPosition: {x: -14.91, y: 0, z: -0.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -76397,10 +76509,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 798200187}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1764839319
@@ -76787,7 +76899,7 @@ Transform:
   m_GameObject: {fileID: 1774563413}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.81, y: 0, z: 0}
+  m_LocalPosition: {x: 1.24, y: 0, z: 0.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -76963,7 +77075,7 @@ Transform:
   m_GameObject: {fileID: 1781705009}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.018415451, y: 0, z: 0.12}
+  m_LocalPosition: {x: -0.28, y: 0, z: -0.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -77587,10 +77699,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 774368139}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1795872788
@@ -78035,8 +78147,8 @@ MonoBehaviour:
   intersectionType: 1
   id: 8
   prioritySegments: []
-  lightsDuration: 6
-  orangeLightDuration: 4
+  lightsDuration: 15
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 1177571010}
   lightsNbr2:
@@ -78625,7 +78737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 376d02e6e394c1440941965ee192c85e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lightGroupId: 2
+  lightGroupId: 1
   intersection: {fileID: 1750770668}
 --- !u!23 &1810989492
 MeshRenderer:
@@ -79085,10 +79197,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 764952447}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1815720217
@@ -79397,7 +79509,7 @@ Transform:
   m_GameObject: {fileID: 1826728821}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.00000047683716, z: -20.18}
+  m_LocalPosition: {x: 0.12, y: -0.00000047683716, z: -18.86}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -80805,7 +80917,7 @@ Transform:
   m_GameObject: {fileID: 1865475065}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.15, y: -0.00000071525574, z: 25.41}
+  m_LocalPosition: {x: 0.15, y: -0.00000071525574, z: 23.73}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -80837,7 +80949,7 @@ Transform:
   m_GameObject: {fileID: 1867570116}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.23002243, y: -1.5152764, z: -21.380268}
+  m_LocalPosition: {x: -0.06, y: -1.5152764, z: -20.84}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -80982,7 +81094,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 376d02e6e394c1440941965ee192c85e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lightGroupId: 2
+  lightGroupId: 1
   intersection: {fileID: 278981552}
 --- !u!23 &1868275491
 MeshRenderer:
@@ -81386,10 +81498,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 820773338}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1881949448
@@ -81504,7 +81616,7 @@ Transform:
   m_GameObject: {fileID: 1882405229}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.00000011920929, z: -24.58}
+  m_LocalPosition: {x: -0.14, y: 0.00000011920929, z: -23.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -81790,10 +81902,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 461301328}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1883699747
@@ -81901,10 +82013,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 689769434}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1885634164
@@ -83045,10 +83157,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1986139129}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1917934991
@@ -83217,7 +83329,7 @@ Transform:
   m_GameObject: {fileID: 1919582713}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.18, y: 0, z: -0.29}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -83262,7 +83374,7 @@ Transform:
   m_GameObject: {fileID: 1921169985}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.5, y: 0, z: 0}
+  m_LocalPosition: {x: 1, y: 0, z: 0.21}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -83355,10 +83467,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1773945691}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1921776148
@@ -83482,8 +83594,8 @@ MonoBehaviour:
   intersectionType: 1
   id: 5
   prioritySegments: []
-  lightsDuration: 6
-  orangeLightDuration: 4
+  lightsDuration: 18
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 458574989}
   - {fileID: 123400319}
@@ -84317,7 +84429,7 @@ Transform:
   m_GameObject: {fileID: 1943247904}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.66, y: 0, z: 0.12889671}
+  m_LocalPosition: {x: -0.09, y: 0, z: 0.43}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -85668,10 +85780,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 802131947}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1971387512
@@ -86030,7 +86142,7 @@ Transform:
   m_GameObject: {fileID: 1977612823}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.45}
+  m_LocalPosition: {x: -0.95, y: 0, z: 0.85}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -86264,7 +86376,7 @@ Transform:
   m_GameObject: {fileID: 1982109092}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.04748, y: -0.00000011920929, z: -0.1184845}
+  m_LocalPosition: {x: 15.1, y: -0.00000011920929, z: -0.19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -87123,10 +87235,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1172060387}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &1996524632
@@ -87207,7 +87319,7 @@ Transform:
   m_GameObject: {fileID: 1998035369}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.5252764, z: -1}
+  m_LocalPosition: {x: -0.03, y: -1.5252764, z: -0.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -88334,8 +88446,8 @@ MonoBehaviour:
   intersectionType: 1
   id: 1
   prioritySegments: []
-  lightsDuration: 10
-  orangeLightDuration: 4
+  lightsDuration: 18
+  orangeLightDuration: 3
   lightsNbr1:
   - {fileID: 729030104}
   - {fileID: 754122798}
@@ -88369,7 +88481,7 @@ Transform:
   m_GameObject: {fileID: 2022687500}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.32, y: 0, z: -0.33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -88804,7 +88916,7 @@ Transform:
   m_GameObject: {fileID: 2029036026}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -33.457706, y: 0.00000011920929, z: 0.14816284}
+  m_LocalPosition: {x: -32.09, y: 0.00000011920929, z: 0.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -88956,10 +89068,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1932944444}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &2029781905
@@ -90540,10 +90652,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 712854897}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &2067121606
@@ -91283,7 +91395,7 @@ Transform:
   m_GameObject: {fileID: 2083284747}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.21826172, y: 0, z: 32.101597}
+  m_LocalPosition: {x: 0.46826172, y: 0, z: 32.101597}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -92004,10 +92116,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1779233676}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &2091310746
@@ -92122,7 +92234,7 @@ Transform:
   m_GameObject: {fileID: 2092598080}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.11, y: 0, z: 23.99}
+  m_LocalPosition: {x: 0.09, y: 0, z: 23.19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -92143,12 +92255,46 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 682375384}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
+--- !u!1 &2097637261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2097637262}
+  m_Layer: 0
+  m_Name: Sensors
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2097637262
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097637261}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 542147815}
+  - {fileID: 881108909}
+  - {fileID: 1115640215}
+  m_Father: {fileID: 198311807}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2100124332
 GameObject:
   m_ObjectHideFlags: 0
@@ -92723,10 +92869,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 688249492}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!114 &2132037029
@@ -94039,10 +94185,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614700510537476}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614698698968903
@@ -94228,10 +94374,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614700415296946}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614698871672305
@@ -94674,10 +94820,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614699748482549}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1809614699055365753
@@ -94793,10 +94939,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614699687518385}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1809614699083679988
@@ -95230,10 +95376,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614699550154078}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614699214763293
@@ -96223,10 +96369,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614699193106611}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &1809614699528808694
@@ -96990,10 +97136,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614698962835832}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614699701416251
@@ -97556,10 +97702,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614699420942672}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614699890338067
@@ -97890,10 +98036,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614699269928028}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614700007742495
@@ -98241,10 +98387,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614698445178165}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!146 &1809614700287250328
@@ -98397,10 +98543,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 1809614698482773324}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &1809614700294587663
@@ -106032,10 +106178,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174904948216865}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &7118174903863567016
@@ -106543,10 +106689,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174905168201032}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &7118174904087470721
@@ -106706,10 +106852,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174905176690129}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!1 &7118174904155028312
@@ -107445,10 +107591,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174905561372148}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!4 &7118174904444216188
@@ -108348,10 +108494,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174903850141682}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &7118174904947323257
@@ -108722,10 +108868,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174903916253247}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!4 &7118174905018962002
@@ -108902,10 +109048,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174903975836562}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &7118174905106877721
@@ -109570,10 +109716,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174904229737568}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!4 &7118174905255592680
@@ -110247,10 +110393,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174904382361431}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!54 &7118174905503660508
@@ -110833,10 +110979,10 @@ MonoBehaviour:
   trafficSystem: {fileID: 1938862188}
   waypointThresh: 2.5
   raycastAnchor: {fileID: 7118174904673021081}
-  raycastLength: 2
-  raySpacing: 4
+  raycastLength: 1.25
+  raySpacing: 6
   raysNumber: 15
-  emergencyBrakeThresh: 1.5
+  emergencyBrakeThresh: 2.5
   slowDownThresh: 5
   vehicleStatus: 0
 --- !u!33 &7118174905736899397
