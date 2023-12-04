@@ -27,14 +27,17 @@ namespace TrafficSimulation{
         private List<GameObject> vehiclesInIntersection;
         private TrafficSystem trafficSystem;        
 
-        [HideInInspector] public int currentRedLightsGroup = 1;
-        
-        void Start(){
+        //[HideInInspector] 
+        public int currentRedLightsGroup = 1;
+
+        void Start()
+        {
             vehiclesQueue = new List<GameObject>();
             vehiclesInIntersection = new List<GameObject>();
-            if(intersectionType == IntersectionType.TRAFFIC_LIGHT)
+            if (intersectionType == IntersectionType.TRAFFIC_LIGHT)
                 InvokeRepeating("SwitchLights", lightsDuration, lightsDuration);
         }
+        
 
         void SwitchLights(){
 
