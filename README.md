@@ -1,1 +1,4 @@
 # Proyecto_ciudad_POO
+El proyecto sirve para poder observar como funcionaría una ciudad de manera ideal, es decir, si los conductores de carros siguieran al pie de la letra las normas establecidas. Adicionalmene es importante decir que los semáforos tienen un algoritmo incorporado el cuál les permite identificar cuando una calle tiene trancón para poder liberar esa calle y desatascar la ciudad.
+
+El proyecto es útil para poder observar una ciudad en funcionamiento, además de poder observar un método para poder desatascar las ciudades a la hora de que se genere un trancón en alguna vía principal. Como una nota adicional es importante mencionar que debido a la aleatoriedad del movimiento de los carros, se ve de mejor manera el funcionamiento del algoritmo de los semáforos.
