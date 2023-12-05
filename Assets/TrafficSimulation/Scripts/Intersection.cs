@@ -18,8 +18,8 @@ namespace TrafficSimulation{
         public List<Segment> prioritySegments;
 
         //For traffic lights only
-        public float lightsDuration = 8;
-        public float orangeLightDuration = 2;
+        public float lightsDuration = 15;
+        public float orangeLightDuration = 3;
         public List<Segment> lightsNbr1;
         public List<Segment> lightsNbr2;
 
@@ -27,8 +27,10 @@ namespace TrafficSimulation{
         private List<GameObject> vehiclesInIntersection;
         private TrafficSystem trafficSystem;        
 
-        //[HideInInspector] 
         public int currentRedLightsGroup = 1;
+
+        public SemaforosIA semaforosIA;
+
 
         void Start()
         {
@@ -39,7 +41,15 @@ namespace TrafficSimulation{
         }
         
 
-        void SwitchLights(){
+        public void cambiar()
+        {
+            CancelInvoke("SwitchLights");
+            SwitchLights();
+            InvokeRepeating("SwitchLights", lightsDuration, lightsDuration);
+            print("no toca nada");
+        }
+
+        public void SwitchLights(){
 
             if(currentRedLightsGroup == 1) currentRedLightsGroup = 2;
             else if(currentRedLightsGroup == 2) currentRedLightsGroup = 1;            
